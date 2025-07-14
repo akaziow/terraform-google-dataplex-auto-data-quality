@@ -14,6 +14,6 @@
 
 terraform {
   backend "gcs" {
-    bucket = "PROJECT_ID-tfstate-dev"
+    bucket = "alekaz-670-20250714132807-tfstate-dev"
   }
 }
